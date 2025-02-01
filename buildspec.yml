@@ -19,6 +19,6 @@ phases:
 
 artifacts:
   files:
-    - 'index.html'          
-    - 'appspec.yml' 
-    - 'scripts/'
+    - 'index.html'
+    - 'appspec.yml'
+    - 'scripts/'
